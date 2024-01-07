@@ -128,8 +128,36 @@ body{
     display: flex;
     justify-content:center;
     align-items: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    background-color: #ffeaea;
+    padding-bottom: 70px;
+    
 }
 .background{
-    background-color: yellow;
+  
 }
+.join-content h1, span {
+    font-family: 'Merriweather';
+    font-weight: 500;
+    font-size: 20px;
+    font-weight: 600;
+}
+.join-content{
+    padding: 60px 0;
+    
+}
+.join-content button{
+    background-color: red;
+    font-family: inter;
+    padding:10px 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    
+}
+
 
