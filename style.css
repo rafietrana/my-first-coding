@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+
+}
+.container{
+    max-width:1320px;
+    margin: auto;
+}
+.text-center{
+    text-align:center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.dflex{
+    display: flex;
+}
+/* main defult css end */
+/* bannar section css start */
+
+.banner-section{
+     
+}
+.banner-section .banner-content{
+    background: url("images/newyear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px 0;
+    min-height: 600px;
+    
+
+
+}
+
+.banner-section .banner-content *{
+    color: white;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: auto 0;
+}
+
+.banner-section .banner-content p {
+    margin-top: 175px;
+    margin-bottom:10px;
+
+}
+.banner-section .banner-content h1 {
+    font-size: 50px;
+    margin-top: 7px;
+}
+/* banner-css end */
+
+.off-section{
+    
+}
+.off-content p {
+    color: red;
+    font-family: 'Inter';
+    font-weight: 400;
+    margin-top: 20px;
+}
+.off-section .off-content h1 {
+    margin-top: 98px;
+    font-family: inter;
+    color: red;
+    font-size: 50px;
+}
+.off-content h3 {
+    font-family: inter;
+    margin-top: 7px;
+    font-size: 30px;
+}
+.off-section .off-content img{}
+
+.off-content *{
+    text-align: center;
+
+}
+.off-content img {
+    margin-left: 250px;
+    margin-top: 101px;
+}
