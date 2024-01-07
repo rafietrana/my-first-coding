@@ -35,7 +35,9 @@ body{
     background-size: cover;
     padding: 70px 0;
     min-height: 600px;
-    
+    margin-top: 30px;
+    border-radius: 20px;
+     
 
 
 }
@@ -75,7 +77,6 @@ body{
 }
 .off-content h3 {
     font-family: inter;
-    margin-top: 7px;
     font-size: 30px;
 }
 .off-section .off-content img{}
@@ -88,3 +89,47 @@ body{
     margin-left: 250px;
     margin-top: 101px;
 }
+/* off section css end */
+/* welcome section start */
+
+.welcome-section{
+     margin-top: 50px;
+}
+.welcome-section .welcome-section-content {
+    background: url("images/Vectorrr.png");
+    padding: 300px 95px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    fill: linear-gradient(90deg, #070211 1%, rgba(7, 2, 17, 0.368) 100%);margin-top: 7px;
+
+
+}
+.welcome-section .welcome-section-content h1 {
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    width: 455px;
+    margin-bottom: 19px;
+}
+.welcome-section .welcome-section-content p{
+    color:white;
+    width:500px;
+}
+.welcome-section .welcome-section-content h5 {
+    font-family: 'Inter';
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* banner2  section css end */
+/* join css start */
+.join-section{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.background{
+    background-color: yellow;
+}
+
