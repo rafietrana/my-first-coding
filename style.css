@@ -7,6 +7,9 @@ body{
     font-family: 'Merriweather', serif;
 
 }
+.width{
+    width: 33.3%;
+}
 .container{
     max-width:1320px;
     margin: auto;
@@ -333,8 +336,9 @@ margin: auto;
 }
 .n-s-c input{
     border: none;
-    padding: 10px 15px;
+    padding: 15px 20px;
     outline: none;
+    margin-top: 10px;
 }
 .n-s-c .submit{
     color: white;
@@ -346,6 +350,76 @@ margin: auto;
     .newslatter-section{
         padding-bottom: 70px;
     }
+/* newslatter css end */
+/* footer css start */
+.footer-section{
+    background: #070211;
+}
+.footer-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 109px 0;
+    border-bottom: 2px solid #ffffff29;
+    margin-top: 5px;
+}
+.footer-top *{
+    color: white;
+    
+}
+.f-s-l{
+    width: 33.3%;
+    margin: auto;
+
+}
+.f-s-l p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    width: 70%;
+}
+.f-s-c{
+    width: 33.3%;
+    text-align: center;
+}
+.f-s-c ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 75px;
+    left: auto;
+}
+.f-s-c ul li {
+    list-style: none;
+    padding: 0 10px;
+}
+.f-s-c ul li img{}
+.f-s-r{
+    width: 33.3%;
+    text-align: right;
+}
+.f-s-r ul li{
+    list-style: none;
+
+}
+.f-s-r .left{
+
+}
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+
+}
+.footer-bottom p{
+    color: white;
+    padding: 50px 0;
+}
+ 
+
  
 
 
