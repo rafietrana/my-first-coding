@@ -196,5 +196,50 @@ body{
 .coming-section .content .coming-right{
     width:33.3%
 }
+.coming-right h1 {
+    color: red;
+}
+
+.coming-right p {
+    font-family: 'Inter';
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.coming-right img{}
+/* coming-section css end  *
+/* holiday-section css start */
+
+.holiday-section{
+ width: 700px;
+ margin: auto;
+ text-align: center;
+ margin: 50px auto;
+}
+.holiday-section-content h5{
+    color: #070211;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.holiday-section-content h1  {
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: Merriweather;
+}
+.holiday-section-content span {
+    font-size: 50px;
+}
+.holiday-section-content p {
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Inter';
+}
 
 
