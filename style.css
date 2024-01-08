@@ -159,5 +159,42 @@ body{
     font-size: 15px;
     
 }
+/* coming section css start */
+.coming-section{}
+.coming-section .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.coming-section .content .coming-left{
+    width: 33.3%;
+}
+.coming-section .content .coming-left h5 {
+    font-family: 'Inter';
+    color: red;
+}
+.coming-section .content .coming-left h1 {
+    font-family: 'Merriweather';
+}
+.coming-section .content .coming-left p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.coming-section .content  .coming-center{
+    width:33.3%
+}
+.coming-center img{
+    border:  10px solid red;
+    border-radius: 200px;
+    padding: 20px;
+}
+.coming-section .content .coming-right{
+    width:33.3%
+}
 
 
