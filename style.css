@@ -163,7 +163,8 @@ body{
     align-items: center;
     margin-top: 60px;
     margin-bottom: 50px;
-    background-color: #ffeaea;
+    background: rgb(2,0,36);
+    background: linear-gradient(177deg, rgba(2,0,36,1) 0%, rgba(255,234,234,1) 0%, rgba(255,255,255,1) 100%, rgba(0,0,0,0.7316176470588236) 100%);
     padding-bottom: 70px;
     
 }
